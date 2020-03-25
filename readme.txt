@@ -1,3 +1,3 @@
-Git is a sss control system.
+Git is a  control system.
 Git is free software.
-My life is very better.
+My life is so bad.
